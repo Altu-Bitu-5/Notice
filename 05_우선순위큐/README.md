@@ -4,7 +4,7 @@
 ### 라이브 코딩
 | 문제 번호 | 문제 이름 | 난이도 | 풀이 링크 | 분류 |
 | :-: | :-: | :-: | :-: | :-: |
-| [11279](https://www.acmicpc.net/problem/11279) | [최대 힙](https://www.acmicpc.net/problem/11279) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> | [v1 바로가기](https://github.com/Altu-Bitu-5/Notice/blob/main/05_우선순위큐/라이브코딩/11279_v1.cpp)[v2 바로가기](https://github.com/Altu-Bitu-5/Notice/blob/main/05_우선순위큐/라이브코딩/11279_v2.cpp) | 자료 구조, 우선순위 큐 |
+| [11279](https://www.acmicpc.net/problem/11279) | [최대 힙](https://www.acmicpc.net/problem/11279) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> | [v1 바로가기](https://github.com/Altu-Bitu-5/Notice/blob/main/05_우선순위큐/라이브코딩/11279_v1.cpp) [v2 바로가기](https://github.com/Altu-Bitu-5/Notice/blob/main/05_우선순위큐/라이브코딩/11279_v2.cpp) | 자료 구조, 우선순위 큐 |
 | [11286](https://www.acmicpc.net/problem/11286) | [절댓값 힙](https://www.acmicpc.net/problem/11286) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> | [바로가기](https://github.com/Altu-Bitu-5/Notice/blob/main/05_우선순위큐/라이브코딩/11286.cpp) | 자료 구조, 우선순위 큐 |
 ## ✏️ 과제 
 ### 마감기한
